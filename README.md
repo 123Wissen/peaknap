@@ -1,5 +1,12 @@
 # 💤 Peaknap - Sleep Calculator
 
+![image](https://github.com/user-attachments/assets/98bdc64c-b80b-442f-911f-34b70f2a08fa)
+
+
+![image](https://github.com/user-attachments/assets/5f2587fe-a2ab-480d-b1fc-16e3372ffb48)
+
+
+
 **Peaknap** is a modern, user-friendly sleep calculator web app that helps you optimize your sleep schedule based on scientifically-backed sleep cycles. Whether you're setting an alarm, using a timer, stopwatch, or checking current time, Peaknap provides everything in one place to improve your rest and well-being.
 
 ## 🌙 Features
